@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.demianenko"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "monolith",
+    "baseName": "SmartNFC",
+    "packageName": "com.demianenko",
+    "packageFolder": "com/demianenko",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2JmZTM2ODgzMTY4YTExYjEzMDU2OTA5Y2Q3MGQyYjAyNzA0ZmQ3ZmE2NWFiNWUxNThkY2UzOTE0OTZkMGJiNjIzYTE2NjU0MDQxNmNiZDE5ZWRhMTcwOWVmM2QzMDY5MTlhNzVmZjFmM2U1NDVjOTE1NjM1ZDRjYWM0ZDM0OTM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
